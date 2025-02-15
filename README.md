@@ -1,11 +1,6 @@
-Descrição da Atividade - Exercício 1: Variáveis e Tipos em Java
-Este programa em Java demonstra o uso de variáveis de diferentes tipos e como ler dados do usuário utilizando a classe Scanner. Ele executa as seguintes etapas:
+Lista de Exercicios praticos usando Programação Estrurada JAVA 
 
-Declaração de Variáveis:
-String: para armazenar o nome (texto).
-int: para a idade (número inteiro).
-double: para a altura (número com casas decimais).
-char: para o sexo (um único caractere, como 'M' ou 'F').
-boolean: para indicar se é estudante (true ou false).
------------------------------------------------------
+Descrição da Atividade - Exercício 1: Variáveis e Tipos em Java
+Descrição da Atividade - Exercício 2: Operações matematicas em Java
+Descrição da Atividade - Exercício 3: Calculando aumento de salario em Java
 

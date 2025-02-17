@@ -2,6 +2,8 @@ package exercicios;
 
 import java.util.Scanner;
 
+// CALCULADORA 4 OPERAÇÕES MATEMATICAS COM MENU 
+
 public class Exercicio6 {
 
     public static void main(String[] args) {
